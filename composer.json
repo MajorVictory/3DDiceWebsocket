@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Dice\\": "app"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4"
+    }
+}
